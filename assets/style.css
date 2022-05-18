@@ -1,0 +1,19 @@
+* {
+    background-color: aquamarine;
+    font-size: medium;
+}
+
+header, div {
+    justify-content: center;
+    align-content: center;
+}
+h1 {
+    font-size: larger;
+}
+.question {
+    display: block;
+}
+
+.question li {
+    flex: content;
+}
